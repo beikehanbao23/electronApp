@@ -18,7 +18,9 @@ function createWindow () {
   // and load the index.html of the app.
   // mainWindow.loadFile('index.html')
   // mainWindow.loadURL('https://map.baidu.com/@13499213,4492307,15z')
-  mainWindow.loadURL('https://docs.mapbox.com/mapbox-gl-js/example/3d-buildings/');
+  // mainWindow.loadURL('https://docs.mapbox.com/mapbox-gl-js/example/3d-buildings/');
+  // mainWindow.loadURL('https://busrouter.sg/visualization/');
+  mainWindow.loadURL('http://deck.gl/showcases/wind/');
 
   // Open the DevTools.
   // mainWindow.webContents.openDevTools()
